@@ -8,7 +8,7 @@ Our content delivery server is managed and run by our community. Therefore, a Gi
 
 ## Our projects
 
-- Single node content delivery server available @ https://docs.naarivad.in — Backend only. Framework: [Rocket](https://github.com/SergioBenitez/Rocket) / Rust
+- CDN available @ https://docs.naarivad.in — Backend only. Framework: [Rocket](https://github.com/SergioBenitez/Rocket) / Rust
 - Discord bot extension to monitor job statuses within the organisation — Framework: [discord.py](https://github.com/Rapptz/discord.py) / Python
 
 ## Contributing
