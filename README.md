@@ -27,8 +27,11 @@ Our content delivery server is managed and run by our community. Therefore, a Gi
 
 ### Powers
 - Access to naarivad.in GitHub Organisation and Hetzner team (if needed to host projects).-->
-If you have any suggestions or implementation ideas, email [Varun](mailto:external.contact.vj@gmail.com). We are not accepting developer applications right now.
+If you have any suggestions or implementation ideas, [start a discussion](https://github.com/naarivad/naarivad/discussions/), or look at already existing ones.
 
+If you want to report a bug, or request a feature, look at [opeen issues](https://github.com/naarivad/naarivad/issues/), and open a new one if there aren't any duplicates.
+
+Pull requests are accepted for open-source projects.
 
 ## Attributions
 Logo: Deisgn by [Abhilasha Sardana](mailto:abhilashasardana1@gmail.com) (https://in.linkedin.com/in/abhilasha-sardana)
