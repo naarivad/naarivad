@@ -6,7 +6,6 @@ body:
     attributes:
       value: >
         Thanks for taking the time to fill out a bug report.
-
         Please note that this form is for bugs only!
   - type: input
     attributes:
@@ -40,7 +39,6 @@ body:
       label: System Information
       description: >
         What device are you on? What OS and browser are you using?
-        
         e.g. OnePlus 7 Pro, Android 11, Firefox Nightly 210410 17:02
     validations:
       required: true
