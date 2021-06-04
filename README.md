@@ -4,11 +4,16 @@ a youth-led organisation focusing on the upliftment of women and gender minoriti
 
 ## Why does this page exist?
 
-Our content delivery server is managed and run by our community. Therefore, a GitHub organisation seemed appropriate to store and organise our codebase.
+We're big believers in FOSS. Open source is the way to go. Apart from the mai website, which uses a site builder and its associated host, all our public facing tools
+are open source, except when they're in early stages of development and look really ugly.
 
-## Our projects
+As of now, "we" is one person in the context of this GitHub organisation, but this could change if there anyone shows interest and competence. 
 
-- CDN available @ https://docs.naarivad.in — Backend only. Framework: [Rocket](https://github.com/SergioBenitez/Rocket) / Rust
+If you'd like to work with us, a good first step is making good contributions to our projects.
+
+## Projects
+
+- CDN available @ https://docs.naarivad.in Framework: [Actix Web](https://github.com/actix/actix-web) / Rust
 - Discord bot extension to monitor job statuses within the organisation — Framework: [discord.py](https://github.com/Rapptz/discord.py) / Python
 
 ## Contributing
@@ -27,11 +32,14 @@ Our content delivery server is managed and run by our community. Therefore, a Gi
 
 ### Powers
 - Access to naarivad.in GitHub Organisation and Hetzner team (if needed to host projects).-->
-If you have any suggestions or implementation ideas, [start a discussion](https://github.com/naarivad/naarivad/discussions/), or look at already existing ones.
 
-If you want to report a bug, or request a feature, look at [opeen issues](https://github.com/naarivad/naarivad/issues/), and open a new one if there aren't any duplicates.
+PRs are welcome for all projects. Make sure they adhere to the prevalent code style in the rest of the code, e.g. for python we follow PEP-8 guidelines (mostly) with a column limit of 125.
 
-Pull requests are accepted for open-source projects.
+#### General Git commit guidelines
+ - Use present tense (e.g. "Add feature" not "Added feature")
+ - Limit all lines to 72 characters or less
+ - Reference issues or pull requests outside of the first line
+   - Please use the shorthand `#123` and not the full URL
 
 ## Attributions
 Logo: Deisgn by [Abhilasha Sardana](mailto:abhilashasardana1@gmail.com) (https://in.linkedin.com/in/abhilasha-sardana)
