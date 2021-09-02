@@ -4,7 +4,7 @@ a youth-led organisation focusing on the upliftment of women and gender minoriti
 
 ## Why does this page exist?
 
-We're big believers in FOSS. Open source is the way to go. Apart from the main website, which uses a site builder and its associated host, all our public facing tools
+We're big believers in OSS. Apart from the main website, which uses a site builder and its associated host, all our public facing tools
 are open source, except when they're in early stages of development and look really ugly.
 
 As of now, "we" is one person in the context of this GitHub organisation, but this could change if there anyone shows interest and competence. 
